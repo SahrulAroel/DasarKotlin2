@@ -1,32 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9fc0e0f-bf74-469f-8a4b-c6f91912a2e6" name="Changes" comment="" />
+    <list default="true" id="c9fc0e0f-bf74-469f-8a4b-c6f91912a2e6" name="Changes" comment="Project Stater">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2Dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayMultiDimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayPrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LisfOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MutableListOf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectKotlin2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectKotlin2.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SahrulAroel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SahrulAroel/DasarKotlin2.git&quot;,
+    &quot;accountId&quot;: &quot;38ba98f0-9111-4c7e-b70f-c8d5ceb9b1f7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lra7Xp14mJ9RpNozD2taYl8vpx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ArrayListOfKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/ProjectKotlin2/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
+      <module name="ProjectKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ArrayListOfKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +91,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725940483563</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project Stater">
+      <option name="closed" value="true" />
+      <created>1725940667766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940667766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Stater" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Stater" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -45,6 +113,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/LisfOf.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
